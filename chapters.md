@@ -1,3 +1,0 @@
-# Chapters
-
-List of chapters
