@@ -58,7 +58,7 @@
     jj.forEach(j => {
       const number = j.name.split(" - ", 1)[0];
       const name = j.name.slice((number + " - ").length, -3);
-      list.innerHTML += "<li><a href=\"/" + j.path + "\">" + name + " (" + j.size + ")</li>";
+      list.innerHTML += "<li><a href=\"/" + j.path.slice(0, -3) + "\">" + name + " (" + j.size + ")</li>";
     });
   })();
 </script>
