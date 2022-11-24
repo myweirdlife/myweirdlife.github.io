@@ -1,4 +1,5 @@
 #My weird life
+
 Here I record my thoughts. This is for me.
 However I still wish for you to enjoy reading it.
 
